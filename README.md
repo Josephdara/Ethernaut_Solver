@@ -57,15 +57,23 @@
 
 - Status: Solved
 - Solution: `scripts/King.s.sol` and `src/Lv-09/King.sol::KingSlayer`
-- SubmissionHash : `https://sepolia.etherscan.io/tx/0xc9cea3b045097c18fb8b04fa822fe18b86fcf68fc9b86829c4d9a8bb92a6a352`
+- SubmissionHash: `https://sepolia.etherscan.io/tx/0xc9cea3b045097c18fb8b04fa822fe18b86fcf68fc9b86829c4d9a8bb92a6a352`
 
 ## Level 10
 
 - Status: Solved
 - Solution: `scripts/Reentrance.s.sol` and `src/Lv-10/Reentrance.sol::ReentrantDrain`
-- SubmissionHash : `https://sepolia.etherscan.io/tx/0xad328ea640b822f911af7e108314997bfcaa95e7fd825ed9802afa75dee4bfaf`
+- SubmissionHash: `https://sepolia.etherscan.io/tx/0xad328ea640b822f911af7e108314997bfcaa95e7fd825ed9802afa75dee4bfaf`
 
 ## Level 11
 
 - Status: Solved
 - Solution: `scripts/Elevator.s.sol` and `src/Lv-11/Elevator.sol::Buildooorrr`
+- SubmissionHash: `https://sepolia.etherscan.io/tx/0xae5295437e16aa9236470724502fea50e04b5afb65a939d8962b426c374940ab`
+
+## Level 12
+
+- Status: Solved
+- Solution: `scripts/Elevator.s.sol` 
+- SubmissionHash: https://sepolia.etherscan.io/tx/0x990a76f7f05de37358a854044ec5feab74a389bffd75566077d6788e7beb874a
+
