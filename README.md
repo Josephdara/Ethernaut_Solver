@@ -24,3 +24,7 @@ Solution: `scripts/CoinFlip.s.sol` and `src/Lv-03/CoinFlip.sol::CoinFlipSolver`
 SubmissionHash: `https://sepolia.etherscan.io/tx/0x3ae6eafd2f3697b9641d842883bbf35a26e5800804ff22dfbf3ad56185386cf9`
 
 ## Level 4
+
+Status: Solved
+Solution: `scripts/Telephone.s.sol` and `src/Lv-04/Telephone.sol::TelephoneSolver`
+SubmissionHash: `https://sepolia.etherscan.io/tx/0xc418aa8cb5c6a0a3899bf62459453ef4b9cd71c5c9bdb703e13b28e29cbb7329`
