@@ -49,4 +49,6 @@
 
 ## Level 8
 
-- Status:
+- Status: Solved 
+- Solution: `scripts/Vault.s.sol`
+- SubmissionHash: `https://sepolia.etherscan.io/tx/0xf2abbe1534d9acd603b676c9f8c56a0fb2570dafbc242b120eda6774fdc87257`
