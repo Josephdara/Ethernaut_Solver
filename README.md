@@ -44,7 +44,7 @@
 ## Level 7
 
 - Status: Solved
-- Solution: `scripts/Force.s.sol`
+- Solution: `scripts/Force.s.sol` and `src/Lv-07/Force.sol::ForceFeeder`
 - SubmissionHash: `https://sepolia.etherscan.io/tx/0xe88e1f0456c03ba3d53538e27b7177f7f7b537840a409c13c70f9e7c94d01fb0`
 
 ## Level 8
@@ -52,3 +52,13 @@
 - Status: Solved 
 - Solution: `scripts/Vault.s.sol`
 - SubmissionHash: `https://sepolia.etherscan.io/tx/0xf2abbe1534d9acd603b676c9f8c56a0fb2570dafbc242b120eda6774fdc87257`
+
+## Level 9
+
+- Status: Solved
+- Solution: `scripts/King.s.sol` and `src/Lv-09/King.sol::KingSlayer`
+- SubmissionHash : `https://sepolia.etherscan.io/tx/0xc9cea3b045097c18fb8b04fa822fe18b86fcf68fc9b86829c4d9a8bb92a6a352`
+
+## Level 10
+
+-
