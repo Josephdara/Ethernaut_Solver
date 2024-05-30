@@ -61,4 +61,6 @@
 
 ## Level 10
 
--
+- Status: Solved
+- Solution: `scripts/Reentrance.s.sol` and `src/Lv-09/Reentrance.sol::ReentrantDrain`
+- SubmissionHash : `https://sepolia.etherscan.io/tx/0xad328ea640b822f911af7e108314997bfcaa95e7fd825ed9802afa75dee4bfaf`
