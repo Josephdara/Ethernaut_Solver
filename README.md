@@ -34,3 +34,19 @@
 - Status: Solved
 - Solution: `scripts/Token.s.sol`
 - SubmissionHash: `https://sepolia.etherscan.io/tx/0x211ffca77e64cce71f03d22c1c16dcec51bcbe0e7684cf04c97356a103f81183`
+
+## Level 6
+
+- Status: Solved
+- Solution: `scripts/Delegation.s.sol`
+- SubmissionHash: `https://sepolia.etherscan.io/tx/0xff5e63e6e58b324d0867d10dc448bb274130fb3eff2010da32cefa9bc3a59411`
+
+## Level 7
+
+- Status: Solved
+- Solution: `scripts/Force.s.sol`
+- SubmissionHash: `https://sepolia.etherscan.io/tx/0xe88e1f0456c03ba3d53538e27b7177f7f7b537840a409c13c70f9e7c94d01fb0`
+
+## Level 8
+
+- Status:
