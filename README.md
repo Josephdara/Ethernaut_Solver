@@ -18,3 +18,9 @@ Solution: `scripts/Fallout.s.sol`
 SubmissionHash: `https://sepolia.etherscan.io/tx/0x78df5dfe75eec6888cc98a6b6869656e87b6f4f319d0f1a07b0e0c09be49daa1`
 
 ## Level 3
+
+Status: Solved 
+Solution: `scripts/CoinFlip.s.sol` and `src/Lv-03/CoinFlip.sol::CoinFlipSolver`
+SubmissionHash: `https://sepolia.etherscan.io/tx/0x3ae6eafd2f3697b9641d842883bbf35a26e5800804ff22dfbf3ad56185386cf9`
+
+## Level 4
