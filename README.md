@@ -175,4 +175,4 @@
 
 - Status: Solved
 - Solution: `scripts/GatekeeperThree.s.sol` and `src/Lv-28/GatekeeperThree.sol::GateThreeSolver`
-- SubmissionHash: https://sepolia.etherscan.io/tx/0x5a0feed383a5cccf46e1c6567ce6ce0c1f8db6c087f1c191554c2264a0212a82
+- SubmissionHash: https://sepolia.etherscan.io/tx/0x108042fdc3bc069cc1a82bd64dc19accf2073f2811de9dfdf98a6d236fb715e1
