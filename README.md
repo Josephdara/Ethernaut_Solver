@@ -125,8 +125,15 @@
 - Solution: `scripts/Denial.s.sol` and `src/Lv-20/Denial.sol::DOS` 
 - SubmissionHash: https://sepolia.etherscan.io/tx/0x6fad64fff0c617dd2af2d00899b7de6b961db4a511ca35d81b53cb0492968cd6
 
-## Level 20: Shop
+## Level 21: Shop
 
 - Status: Solved
 - Solution: `scripts/Shop.s.sol` and `src/Lv-21/Shop.sol::Bargainer` 
 - SubmissionHash: https://sepolia.etherscan.io/tx/0xd4f8452568259499a2100d0cd14a3745f822b03663c3c4a2df3435da2544b3cf
+
+
+## Level 22: DEX
+
+- Status: Solved
+- Solution: `scripts/Dex.s.sol` 
+- SubmissionHash: https://sepolia.etherscan.io/tx/0x584081c83a5e29851fe6570b123b651c2491d7a890ddf368ac108bee06534aad
