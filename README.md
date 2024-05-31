@@ -101,8 +101,16 @@
 - Solution: `scripts/Preservation.s.sol` and `src/Lv-16/Preservation.sol::LibrarySolver`
 - SubmissionHash: https://sepolia.etherscan.io/tx/0xc0f78b567c8c6df730207923ce365dae5def04622f5d2684b2758b9febd598cc
 
-## Level 15 : Recovery
+## Level 17 : Recovery
 
 - Status: Solved
 - Solution: `scripts/Recovery.s.sol`
 - SubmissionHash: https://sepolia.etherscan.io/tx/0x93c242f95150ff261e95e7ddee711756d845a413a415fe4c6d151a42409e0dfb
+
+## Level 18 : MagicNum
+
+- Status: Solved
+- Solution: `scripts/MagicNum.s.sol` and `src/Lv-18/MagicNum.sol::Factory` 
+- SubmissionHash: https://sepolia.etherscan.io/tx/0x7c993f80f588bacc21c8470342468089c2bbd3142bd8ca697dd6831db69edbf4
+
+## 
