@@ -156,3 +156,16 @@
 - Status: Solved** [Bug Spotted: https://github.com/OpenZeppelin/ethernaut/issues/737]
 - Solution: `scripts/MotorBike.s.sol` and `src/Lv-25/MotorBike.sol::Controller`
 - SubmissionHash: https://sepolia.etherscan.io/address/0x7c3fca81ae8f49d54c809064fd5f59fe201e8501#code
+
+
+## Level 26: DoubleEntryPoint
+
+- Status: Solved
+- Solution: `scripts/DoubleEntryPoint.s.sol` and `src/Lv-26/DoubleEntryPoint.sol::Bot`
+- SubmissionHash: https://sepolia.etherscan.io/tx/0xaefa2684685e6ef24e1b45a5e24106c1ac4701b877323869e573fd3e1eafa5e8
+
+## Level 27: GoodSamaritan
+
+- Status: Solved
+- Solution: `scripts/GoodSamaritan.s.sol` and `src/Lv-26/GoodSamaritan.sol::Sama`
+- SubmissionHash: https://sepolia.etherscan.io/tx/0x5a0feed383a5cccf46e1c6567ce6ce0c1f8db6c087f1c191554c2264a0212a82
