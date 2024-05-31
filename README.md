@@ -137,3 +137,9 @@
 - Status: Solved
 - Solution: `scripts/Dex.s.sol` 
 - SubmissionHash: https://sepolia.etherscan.io/tx/0x584081c83a5e29851fe6570b123b651c2491d7a890ddf368ac108bee06534aad
+
+## Level 23: DEXTwo
+
+- Status: Solved
+- Solution: `scripts/DexTwo.s.sol` and `src/Lv-23/DexTwo.sol::FakeTok`
+- SubmissionHash: https://sepolia.etherscan.io/tx/0xf6b18c043acd15929c7d594018bd03a6c0359efdffd40dad4d404679eacb9479
