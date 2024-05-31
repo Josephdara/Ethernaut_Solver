@@ -129,4 +129,4 @@
 
 - Status: Solved
 - Solution: `scripts/Shop.s.sol` and `src/Lv-21/Shop.sol::Bargainer` 
-- SubmissionHash: https://sepolia.etherscan.io/tx/0x6fad64fff0c617dd2af2d00899b7de6b961db4a511ca35d81b53cb0492968cd6
+- SubmissionHash: https://sepolia.etherscan.io/tx/0xd4f8452568259499a2100d0cd14a3745f822b03663c3c4a2df3435da2544b3cf
