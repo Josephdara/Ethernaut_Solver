@@ -167,5 +167,12 @@
 ## Level 27: GoodSamaritan
 
 - Status: Solved
-- Solution: `scripts/GoodSamaritan.s.sol` and `src/Lv-26/GoodSamaritan.sol::Sama`
+- Solution: `scripts/GoodSamaritan.s.sol` and `src/Lv-27/GoodSamaritan.sol::Sama`
+- SubmissionHash: https://sepolia.etherscan.io/tx/0x5a0feed383a5cccf46e1c6567ce6ce0c1f8db6c087f1c191554c2264a0212a82
+
+
+## Level 28: GateKeeperThree
+
+- Status: Solved
+- Solution: `scripts/GatekeeperThree.s.sol` and `src/Lv-28/GatekeeperThree.sol::GateThreeSolver`
 - SubmissionHash: https://sepolia.etherscan.io/tx/0x5a0feed383a5cccf46e1c6567ce6ce0c1f8db6c087f1c191554c2264a0212a82
