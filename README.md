@@ -113,4 +113,8 @@
 - Solution: `scripts/MagicNum.s.sol` and `src/Lv-18/MagicNum.sol::Factory` 
 - SubmissionHash: https://sepolia.etherscan.io/tx/0x7c993f80f588bacc21c8470342468089c2bbd3142bd8ca697dd6831db69edbf4
 
-## 
+## Level 19: AlienCodex
+
+- Status: Solved
+- Solution: `scripts/AlienCodex.s.sol` and `src/Lv-19/AlienCodex.sol::AlienRewrite` 
+- SubmissionHash: https://sepolia.etherscan.io/tx/0x4231c9242d0e563cc55328dcaaed257dddeb5430c6b55baa174adbe48dfa896a
