@@ -149,3 +149,10 @@
 - Status: Solved
 - Solution: `scripts/Puzzle.s.sol` and `src/Lv-24/Puzzle.sol::PuzzleMaze`
 - SubmissionHash: https://sepolia.etherscan.io/tx/0x29924ae1d48a0af0b3dd65afec02b0d55cded78b6fae7f3e586b9238f132f7e7
+
+
+## Level 25: Motorbike
+
+- Status: Solved** [Bug Spotted: https://github.com/OpenZeppelin/ethernaut/issues/737]
+- Solution: `scripts/MotorBike.s.sol` and `src/Lv-25/MotorBike.sol::Controller`
+- SubmissionHash: https://sepolia.etherscan.io/address/0x7c3fca81ae8f49d54c809064fd5f59fe201e8501#code
