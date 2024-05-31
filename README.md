@@ -143,3 +143,9 @@
 - Status: Solved
 - Solution: `scripts/DexTwo.s.sol` and `src/Lv-23/DexTwo.sol::FakeTok`
 - SubmissionHash: https://sepolia.etherscan.io/tx/0xf6b18c043acd15929c7d594018bd03a6c0359efdffd40dad4d404679eacb9479
+
+## Level 24: Puzzle
+
+- Status: Solved
+- Solution: `scripts/Puzzle.s.sol` and `src/Lv-24/Puzzle.sol::PuzzleMaze`
+- SubmissionHash: https://sepolia.etherscan.io/tx/0x29924ae1d48a0af0b3dd65afec02b0d55cded78b6fae7f3e586b9238f132f7e7
